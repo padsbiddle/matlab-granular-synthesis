@@ -46,3 +46,7 @@ Windowing artefacts are clearly audible. A Tukey window with alpha 0.5 fades eac
 - MATLAB developed in MATLAB Online, 26.2.0.3386108 (R2026b)
 - Signal Processing Toolbox
 - Keep all the .m files in the same folder, or on the MATLAB path.
+
+## Screenshot
+
+![Visualiser output](MATLAB output.png)
