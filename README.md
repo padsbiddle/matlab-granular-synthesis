@@ -1,6 +1,7 @@
 # matlab-granular-synthesis
 
 A MATLAB demonstration of synchronous granular synthesis. An audio file is chopped into grains of a user defined length, windowed, and transformed to show what the technique can do.
+The output produced can be used in a creative context if further manipulated in your DAW of choice.
 
 ## Background
 
