@@ -49,4 +49,4 @@ Windowing artefacts are clearly audible. A Tukey window with alpha 0.5 fades eac
 
 ## Screenshot
 
-![Visualiser output](MATLAB output.png)
+![Visualiser output](MATLAB_output.png)
