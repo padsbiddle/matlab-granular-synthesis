@@ -1,2 +1,2 @@
-[x, fs] = audioread('windowHamming.wav');
+[x, fs] = audioread('ENTER-FILE-NAME.wav');
 sound(x, fs);
